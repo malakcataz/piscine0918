@@ -1,0 +1,5 @@
+Credentials cache: API:49B9331D-7DE3-4559-9D07-AECCF3DE5793
+        Principal: spatriar@42.FR
+
+  Issued                Expires               Principal
+Aug 27 19:48:37 2018  Sep  3 19:48:17 2018  krbtgt/42.FR@42.FR
